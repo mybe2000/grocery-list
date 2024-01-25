@@ -1,0 +1,16 @@
+/* .title {
+    color:blueviolet
+} */
+
+h1 {
+    border: 1px solid black;
+    background-color: aqua;
+}
+
+
+section {
+    display: inline-block;
+    background-color: lightgray;
+    border: 1px solid black;
+    margin: 10px;
+}
